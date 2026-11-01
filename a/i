@@ -1,0 +1,10 @@
+{
+  "version": "neural-letter-v1",
+  "public_salt": "2964ada44ed7949175b6eb204571a967",
+  "model_sha256": "a2c51be115681b7ee54ceded7d6919d60c7a43924b06ae74368f018b3b795ab3",
+  "vocab_sha256": "9dafbd5b16026d5bd507f9989be83b28bc5867924a55f68af3fa38a79f3f055a",
+  "context": "[短篇320字]",
+  "topk": 8,
+  "forced_threshold": 0.92,
+  "precision": "float32-math-SDPA"
+}
